@@ -14,7 +14,7 @@ I am a developer focused on building scalable web applications and efficient sof
 - 🚀 **Current Focus:** Building high-performance web applications with **Next.js**.
 - 🛠 **Languages:** Proficient in **TypeScript**, **Java**, **C**, and **Python**.
 - ⚙️ **Automation:** Creating scripts to optimize workflows and data management.
-- 🎨 **UI/UX:** Designing clean, responsive interfaces with **Tailwind CSS**.
+- 🎨 **UI/UX:** Designing clean, responsive interfaces with **CSS**.
 
 ---
 
@@ -41,7 +41,7 @@ I am a developer focused on building scalable web applications and efficient sof
 ### Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crownles-s&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crownles-s&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
 
 ---

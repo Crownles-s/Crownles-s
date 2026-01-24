@@ -41,8 +41,6 @@ I am a developer focused on building scalable web applications and efficient sof
 ### Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crownles-s&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crownles-s&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
 </div>
 

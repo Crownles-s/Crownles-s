@@ -45,7 +45,3 @@ I am a developer focused on building scalable web applications and efficient sof
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>

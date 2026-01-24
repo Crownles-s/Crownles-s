@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Crownless&fontSize=70&animation=fadeIn" width="100%" />
-
   <p align="center">
     <strong>Software Developer | Full-Stack Enthusiast</strong>
   </p>
